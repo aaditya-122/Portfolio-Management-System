@@ -57,13 +57,3 @@ Design and create a portfolio management system which aims to :
   - [x] Portfolio Model
   - [x] StockHoldings Model
 
-## Team Members
-1. Bhushan Pagare [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/bpagare6) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/bpagare6)
-2. Purvesh Jain [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/purvesh-jain-035727155/) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/purvesh314)
-3. Manav Peshwani [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/manavpeshwani/) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/manavpeshwani)
-4. Nipun Khivansara [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/nipun-khivansara-152bb8199/) [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/Nipunkhivansara)
-
-### Would Like to Contribute?
-Please watch the video : https://youtu.be/MnUd31TvBoU
-
-Send the pull request, we will review it and if possible will merge it in the codebase :smiley:.
