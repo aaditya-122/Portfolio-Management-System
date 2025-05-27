@@ -14,7 +14,7 @@ Design and create a portfolio management system which aims to :
 - Use Algorithmic Trading to remove the psychological & emotional bias faced during the investment process.
 
 ## Architecture Diagram
-![](./images/Architecture-Diagram.png)
+![]("D:\Portfolio-Management-System-main\Financial-Portfolio-Management-System-main\images\Architecture-Diagram.png")
 
 ## Few Web Pages Screenshots
 ![](./images/Home-Page.png)
